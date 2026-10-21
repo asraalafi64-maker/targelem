@@ -1,0 +1,22 @@
+{
+  "name": "targelem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asraalafi64-maker/targelem.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/asraalafi64-maker/targelem/issues"
+  },
+  "homepage": "https://github.com/asraalafi64-maker/targelem#readme",
+  "dependencies": {
+    "mathjs": "^15.2.0"
+  }
+}
