@@ -1,0 +1,52 @@
+Node.js is a free, open-source, cross-platform JavaScript runtime environment built on Chrome's V8 
+first line second file
+What Node.js Does
+Asynchronous & Event-Driven: Uses a non-blocking, event-driven architecture designed to handle many 
+operations at once with high speed and scalability (ideal for real-time apps like live chats or online 
+games).
+a4,1
+a4,2
+a4,3
+a4,4
+a5.1
+a5.2
+a5.3
+a5.4
+a5.5
+a6.1
+a6.2
+a6.3
+a6.4
+a6.5
+a6.6
+a7.1
+a7.2
+a7.3
+a7.4
+a7.5
+a7.6
+a7.7
+a8.1
+a8.2
+a8.3
+a8.4
+a8.5
+a8.6
+a8.7
+a8.8
+a9.1
+a9.2
+a9.3
+a9.4
+a9.5
+a9.6
+a9.7
+a9.8
+a9.9
+a10.1
+a10.2
+a10.3
+a10.4
+a10.5
+a10.6
+

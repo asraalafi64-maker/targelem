@@ -1,0 +1,3 @@
+Asynchronous & Event-Driven: Uses a non-blocking, event-driven architecture designed to handle many 
+operations at once with high speed and scalability (ideal for real-time apps like live chats or online 
+games).

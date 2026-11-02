@@ -1,0 +1,7 @@
+first line second file
+What Node.js Does
+• Server-Side Scripting: Allows developers to 
+build web servers, APIs, and microservices 
+using JavaScript instead of traditional 
+
+backend languages like PHP, Python, or Java
