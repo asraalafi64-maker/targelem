@@ -1,3 +1,6 @@
+//israa lafi
+//jawad ballan
+
 const fs = require('fs');// module for file system operations
 const path = require('path'); // module for handling and transforming file paths
 const dirPath = path.join(__dirname, '/input');// 
