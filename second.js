@@ -9,14 +9,14 @@ function GetPrimesInRange(limit) {
     let count = 0;
     let prims = ""; // Fixed: declared and initialized as a string
     
-    for (let i = 2; i <= limit; i++) {
+    for (let i = 2; i <= limit; i++) {// Fixed: changed from "i < limit" to "i <= limit" to include the limit in the range
         if (isPrime(i)) {
             prims += i + " ";
             count++;
         }
     }
     
-    if (count == 0) {
+    if (count == 0) { // Fixed: changed from "count = 0" to "count == 0" for comparison
         return "Until " + limit + " ,there are no prime numbers";
     } else {
         return "Found " + count + " primes: " + prims;
@@ -29,7 +29,7 @@ function isPrime(num) {
         return false;
     }
     
-    let prime = true;
+    let prime = true; // Fixed: declared and initialized as a boolean
     for (let i = 2; i < num && prime; i++) {
         if (num % i == 0) {
             prime = false;
