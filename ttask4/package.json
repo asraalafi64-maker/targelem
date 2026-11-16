@@ -1,0 +1,11 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "My first Node.js website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
